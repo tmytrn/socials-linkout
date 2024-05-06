@@ -12,8 +12,8 @@ export default function Home() {
           priority
         />
       </div>
-      <div className="md:hidden z-10 flex flex-col w-full h-full items-center justify-between text-sm">
-        <a href="https://instagram.com">
+      <div className="md:hidden z-10 flex flex-col w-full h-full items-center justify-center text-sm">
+        <a href="https://instagram.com" className="p-12">
           <Image
             src="/instagram.svg"
             alt="instagram link"
@@ -22,7 +22,7 @@ export default function Home() {
             priority
           />
         </a>
-        <a href="https://facebook.com">
+        <a href="https://facebook.com" className="p-12">
           <Image
             src="/facebook.svg"
             alt="facebook link"
