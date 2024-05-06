@@ -6,7 +6,7 @@ export default function Home() {
       <div className="md:hidden z-10 flex flex-col w-full h-full items-center justify-between text-sm">
         <a href="https://instagram.com">
           <Image
-            src="/public/instagram.svg"
+            src="/instagram.svg"
             alt="instagram link"
             width={120}
             height={36}
@@ -15,7 +15,7 @@ export default function Home() {
         </a>
         <a href="https://facebook.com">
           <Image
-            src="/public/facebook.svg"
+            src="/facebook.svg"
             alt="facebook link"
             width={120}
             height={36}
