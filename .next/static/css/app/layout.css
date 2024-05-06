@@ -569,9 +569,6 @@ video {
 .fixed {
   position: fixed;
 }
-.top-8 {
-  top: 2rem;
-}
 .top-12 {
   top: 3rem;
 }
@@ -601,6 +598,9 @@ video {
 }
 .justify-between {
   justify-content: space-between;
+}
+.overflow-hidden {
+  overflow: hidden;
 }
 .p-12 {
   padding: 3rem;
