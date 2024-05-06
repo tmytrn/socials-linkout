@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex h-full w-full flex-col justify-between items-center px-4 py-48">
+    <main className="flex h-full w-full flex-col justify-between items-center px-4 py-24">
       <div className="fixed w-full flex flex-col items-center align middle justify-center top-4">
         <Image
           src="/fox-upfront-logo.svg"
