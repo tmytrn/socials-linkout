@@ -572,6 +572,9 @@ video {
 .top-12 {
   top: 3rem;
 }
+.top-0 {
+  top: 0px;
+}
 .z-10 {
   z-index: 10;
 }

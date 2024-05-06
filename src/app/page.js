@@ -12,7 +12,7 @@ export default function Home() {
           priority
         />
       </div>
-      <div className="md:hidden z-10 flex flex-col w-full h-full items-center justify-center text-sm overflow-hidden">
+      <div className=" fixed md:hidden z-10 flex flex-col w-full h-full items-center justify-center text-sm overflow-hidden top-0">
         <a href="https://instagram.com" className="p-12">
           <Image
             src="/instagram.svg"
