@@ -7,8 +7,7 @@ export default function Home() {
         <a href="https://instagram.com">
           <Image
             src="/instagram.svg"
-            alt="Vercel Logo"
-            className="dark:invert"
+            alt="instagram link"
             width={120}
             height={36}
             priority
@@ -17,8 +16,7 @@ export default function Home() {
         <a href="https://facebook.com">
           <Image
             src="/facebook.svg"
-            alt="Vercel Logo"
-            className="dark:invert"
+            alt="facebook link"
             width={120}
             height={36}
             priority
