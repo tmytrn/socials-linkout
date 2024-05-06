@@ -3,6 +3,15 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="flex h-full w-full flex-col justify-between items-center px-4 py-48">
+      <div className="fixed w-full flex flex-col items-center align middle justify-center top-4">
+        <Image
+          src="/fox-upfront-logo.svg"
+          alt="fox logo"
+          width={64}
+          height={36}
+          priority
+        />
+      </div>
       <div className="md:hidden z-10 flex flex-col w-full h-full items-center justify-between text-sm">
         <a href="https://instagram.com">
           <Image
