@@ -569,11 +569,11 @@ video {
 .fixed {
   position: fixed;
 }
-.top-1 {
-  top: 0.25rem;
+.top-8 {
+  top: 2rem;
 }
-.top-4 {
-  top: 1rem;
+.top-12 {
+  top: 3rem;
 }
 .z-10 {
   z-index: 10;
@@ -602,13 +602,16 @@ video {
 .justify-between {
   justify-content: space-between;
 }
+.p-12 {
+  padding: 3rem;
+}
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-.py-48 {
-  padding-top: 12rem;
-  padding-bottom: 12rem;
+.py-24 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
 }
 .align-middle {
   vertical-align: middle;

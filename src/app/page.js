@@ -3,11 +3,11 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="flex h-full w-full flex-col justify-between items-center px-4 py-24">
-      <div className="fixed w-full flex flex-col items-center align middle justify-center top-4">
+      <div className="fixed w-full flex flex-col items-center align middle justify-center top-12">
         <Image
           src="/fox-upfront-logo.svg"
           alt="fox logo"
-          width={64}
+          width={100}
           height={36}
           priority
         />
