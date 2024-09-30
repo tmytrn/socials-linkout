@@ -4,8 +4,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Fox Upfront 2024",
-  description: "Fox Upfront 2024",
+  title: "Prime unBoxed AR",
+  description: "Prime unBoxed AR",
 };
 
 export default function RootLayout({ children }) {
