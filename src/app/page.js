@@ -13,7 +13,9 @@ export default function Home() {
         />
       </div>
       <div className=" fixed md:hidden z-10 flex flex-col w-full h-full items-center justify-center text-sm overflow-hidden top-0">
-        <a href="https://google.com" className="p-12">
+        <a
+          href="https://www.instagram.com/ar/1200719724315135/"
+          className="p-12">
           <Image
             src="/instagram.svg"
             alt="instagram link"
@@ -22,7 +24,9 @@ export default function Home() {
             priority
           />
         </a>
-        <a href="https://google.com" className="p-12">
+        <a
+          href="https://www.facebook.com/fbcameraeffects/tryit/1200719724315135/"
+          className="p-12">
           <Image
             src="/facebook.svg"
             alt="facebook link"
